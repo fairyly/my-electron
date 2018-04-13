@@ -1,5 +1,9 @@
 # myelectron
-myelectron-demo
+
+Electron: 
+ 
+ Electron 可以让你使用纯 JavaScript 调用丰富的原生(操作系统) APIs 来创造桌面应用。   
+ 你可以把它看作一个专注于桌面应用的 Node. js 的变体，而不是 Web 服务器。
 
 
 * github: https://github.com/electron/electron
@@ -9,7 +13,8 @@ myelectron-demo
 
 - install
 ```
-  npm install electron -g
+  全局安装: npm install electron -g
+  在项目中作为development dependency安装: npm install electron --save-dev
 ```
 
 - Quick start

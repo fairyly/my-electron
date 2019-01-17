@@ -73,3 +73,7 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
     }
   }
 ```
+
+
+## 参考
+- [vue-cli-plugin-electron-builder](https://nklayman.github.io/vue-cli-plugin-electron-builder/)

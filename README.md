@@ -8,10 +8,6 @@
 - demo
   - Beautiful Cloud Drive Markdown NoteBook Desktop App: https://github.com/IceEnd/Yosoro
 
-* github: https://github.com/electron/electron
-* website: https://electronjs.org
-* doc: https://electronjs.org/docs/tutorial/first-app
-
 
 - install
 ```
@@ -76,4 +72,9 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
 
 
 ## 参考
-- [vue-cli-plugin-electron-builder](https://nklayman.github.io/vue-cli-plugin-electron-builder/)
+- [ electron ](https://github.com/electron)
+- [ website ](https://electronjs.org)
+- [ docs ](https://electronjs.org/docs/tutorial/first-app)
+- [ electron-api-demos ](https://github.com/electron/electron-api-demos)
+- [ electron-builder ](https://github.com/electron-userland/electron-builder)
+- [ vue-cli-plugin-electron-builder ](https://nklayman.github.io/vue-cli-plugin-electron-builder/)

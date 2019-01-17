@@ -76,5 +76,6 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
 - [ website ](https://electronjs.org)
 - [ docs ](https://electronjs.org/docs/tutorial/first-app)
 - [ electron-api-demos ](https://github.com/electron/electron-api-demos)
+- [ electron-api-demos-Zh_CN ](https://github.com/demopark/electron-api-demos-Zh_CN)
 - [ electron-builder ](https://github.com/electron-userland/electron-builder)
 - [ vue-cli-plugin-electron-builder ](https://nklayman.github.io/vue-cli-plugin-electron-builder/)

@@ -73,6 +73,7 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
 
 ## demo
 
+- [electronic-netease-music](https://github.com/Tinysymphony/electronic-netease-music)
 - [NetEase Music.](https://github.com/kyicy/Griever)
 - [juejin-preview](https://github.com/feng-fu/electron-ipc-demo)
 - [electron-with-express](https://github.com/frankhale/electron-with-express)

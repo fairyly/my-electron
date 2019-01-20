@@ -79,6 +79,7 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
 - [BaiDu cloud with React16.x and Electron](https://github.com/zedwang/electron-bdcloud/tree/dev)
 - [fem-firesale](https://github.com/stevekinney/fem-firesale)
 - [clipmaster-9000-tutorial](https://github.com/stevekinney/clipmaster-9000-tutorial)
+- [electron-in-action](https://github.com/electron-in-action)
 
 
 ## 参考

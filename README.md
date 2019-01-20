@@ -71,6 +71,16 @@ npm 会帮助你创建一个基本的 package.json 文件。 其中的 main 字�
 ```
 
 
+## demo
+
+- [NetEase Music.](https://github.com/kyicy/Griever)
+- [juejin-preview](https://github.com/feng-fu/electron-ipc-demo)
+- [electron-with-express](https://github.com/frankhale/electron-with-express)
+- [BaiDu cloud with React16.x and Electron](https://github.com/zedwang/electron-bdcloud/tree/dev)
+- [fem-firesale](https://github.com/stevekinney/fem-firesale)
+- [clipmaster-9000-tutorial](https://github.com/stevekinney/clipmaster-9000-tutorial)
+
+
 ## 参考
 - [ electron ](https://github.com/electron)
 - [ website ](https://electronjs.org)

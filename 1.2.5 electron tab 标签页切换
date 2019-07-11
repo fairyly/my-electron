@@ -1,0 +1,53 @@
+# 1.2.5 electron tab 标签页切换
+
+
+>
+
+![](https://raw.githubusercontent.com/brrd/electron-tabs/HEAD/screenshot.jpg)
+
+## Installation
+```
+$ npm install --save electron-tabs
+```
+
+## Usage
+
+Add the following elements to the app page:
+
+html：
+
+```
+<div class="etabs-tabgroup">
+    <div class="etabs-tabs"></div>
+    <div class="etabs-buttons"></div>
+</div>
+<div class="etabs-views"></div>
+```
+
+And call the module in the renderer process:
+
+js:
+
+````
+const TabGroup = require("electron-tabs");
+```
+初始化一个tab
+Then you can initialize a tab group and add tabs to it:
+
+```
+let tabGroup = new TabGroup();
+let tab = tabGroup.addTab({
+    title: "Electron",
+    src: "http://electron.atom.io",
+    visible: true
+});
+```
+If you don't want to write your own styles, you can also insert the sample electron-tabs stylesheet in the page header:
+
+```
+<link rel="stylesheet" href="node_modules/electron-tabs/electron-tabs.css">
+```
+
+## 参考
+- [package/electron-tabs](https://www.npmjs.com/package/electron-tabs)
+- [brrd/electron-tabs](https://github.com/brrd/electron-tabs)
